@@ -1,6 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
-
+/*
+ * Header file for all prototypes
+ * used in 0x04-more_functions_nested_loops
+ */
 #include <stdio.h>
 #include <unistd.h>
 int _isupper(int c);
@@ -14,5 +17,4 @@ void print_line(int n);
 void print_diagonal(int n);
 void print_square(int size);
 void print_triangle(int size);
-
 #endif
