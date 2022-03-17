@@ -4,8 +4,6 @@
  * Header file for all prototypes
  * used in 0x04-more_functions_nested_loops
  */
-#include <stdio.h>
-#include <unistd.h>
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
