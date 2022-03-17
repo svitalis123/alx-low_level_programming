@@ -5,6 +5,8 @@
  *
  * Return: Always 0.
  */
+
+int _putchar(int c);
 void print_numbers(void)
 {
 	int c;
